@@ -1,0 +1,15 @@
+/home/vildan/Documents/FinalControl/bin/Debug/net6.0/FinalControl
+/home/vildan/Documents/FinalControl/bin/Debug/net6.0/FinalControl.deps.json
+/home/vildan/Documents/FinalControl/bin/Debug/net6.0/FinalControl.runtimeconfig.json
+/home/vildan/Documents/FinalControl/bin/Debug/net6.0/FinalControl.dll
+/home/vildan/Documents/FinalControl/bin/Debug/net6.0/FinalControl.pdb
+/home/vildan/Documents/FinalControl/obj/Debug/net6.0/FinalControl.csproj.AssemblyReference.cache
+/home/vildan/Documents/FinalControl/obj/Debug/net6.0/FinalControl.GeneratedMSBuildEditorConfig.editorconfig
+/home/vildan/Documents/FinalControl/obj/Debug/net6.0/FinalControl.AssemblyInfoInputs.cache
+/home/vildan/Documents/FinalControl/obj/Debug/net6.0/FinalControl.AssemblyInfo.cs
+/home/vildan/Documents/FinalControl/obj/Debug/net6.0/FinalControl.csproj.CoreCompileInputs.cache
+/home/vildan/Documents/FinalControl/obj/Debug/net6.0/FinalControl.dll
+/home/vildan/Documents/FinalControl/obj/Debug/net6.0/refint/FinalControl.dll
+/home/vildan/Documents/FinalControl/obj/Debug/net6.0/FinalControl.pdb
+/home/vildan/Documents/FinalControl/obj/Debug/net6.0/FinalControl.genruntimeconfig.cache
+/home/vildan/Documents/FinalControl/obj/Debug/net6.0/ref/FinalControl.dll
